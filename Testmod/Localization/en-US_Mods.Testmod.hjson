@@ -1,0 +1,45 @@
+# This file will automatically update with entries for new content after a build and reload.
+# Please read https://github.com/tModLoader/tModLoader/wiki/Localization to learn more about localization and these files.
+
+Items: {
+	Testmod: {
+		DisplayName: It just works
+		Tooltip:
+			'''
+			WHY DID YOU MAKE ME DO THIS
+			YOU'RE FIGHTING SO YOU CAN SEE EVERYONE AROUND YOU DIE
+			THINK MARK
+			YOULL OUTLAST EVERY FRAGILE INSIGNIFICANT BEING ON THIS PLANET
+			YOU'LL LIVE TO SEE THIS PLANET CRUMBLE TO DUST AND BLOW AWAY
+			EVERYONE AND EVERYTHING YOU KNOW WILL BE GONE
+			WHAT WILL YOU HAVE AFTER 500 YEARS
+			'''
+	}
+
+	sword1: {
+		DisplayName: Executioner's Sword
+		Tooltip:
+			'''
+			idfk
+			cool sword i guess
+			'''
+	}
+
+	SourceBlade: {
+		DisplayName: SourceBlade
+		Tooltip: 
+			'''
+			err.Projectile
+			'''
+	}
+
+	SourcePick: {
+		DisplayName: SourcePick
+		Tooltip: 
+			'''
+			err.missingSound, err.Animation
+			'''
+	}
+}
+
+Projectiles.sourceSlash.DisplayName: source Slash
