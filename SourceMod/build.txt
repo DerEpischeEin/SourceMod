@@ -1,0 +1,3 @@
+displayName = SourceMod
+author = REIGNITION
+version = 1.0
